@@ -1,5 +1,5 @@
 products
 roles
 pre & post conditions
-plan - driven
 agile process
+waterfall model
