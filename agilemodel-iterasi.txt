@@ -2,3 +2,6 @@ specification
 development
 operation
 maentenence
+customer input
+system requirement
+hardware
